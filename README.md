@@ -14,4 +14,6 @@ We are both collaborators on the same repo and will both commit changes.
 
 ### Task 6: Carolyn - You should create an array of numbers in a Javascript file, if there isn't one. Write a function that generates a sum.
 
-### Task 7: Brian - You should edit an HTML file. Add a recipe that you like using lists. 
+### Task 7: Brian - You should edit an HTML file. Add a recipe that you like using lists.
+
+### Task 8: Carolyn - You should create an array of objects. Each object should have a name and age.

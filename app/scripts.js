@@ -18,6 +18,17 @@ var arrayOfObjects = [
 
 var arrayOfNumbers = [1, 2, 3];
 
+var arryOfObjects = [
+  {
+    name: "Ginger",
+    age: 10
+  },
+  {
+    name: "Scissors",
+    age: 2
+  }
+];
+
 function multiplyArrayNumbers(array) {
   total = 1;
   for (var i = 0; i < array.length; i++) {
