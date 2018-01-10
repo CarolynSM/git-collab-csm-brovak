@@ -9,3 +9,13 @@ var arrayOfObjects = [
  	 name: Lucy,
   	 age: 9},
 ]
+
+var arrayOfNumbers = [1,2,3];
+
+function multiplyArrayNumbers(array){
+	total = 1;
+	for (var i = 0; i < array.length; i++) {
+		total *= array[i];
+	}
+	return total;
+}
