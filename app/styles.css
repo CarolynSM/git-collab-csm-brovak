@@ -9,7 +9,8 @@ header {
 h1 {
   color: blue;
   grid-column: 1/span 2;
-  margin-left: 1rem;
+  margin-left: 120rem;
+  color: blue;
 }
 
 nav {
