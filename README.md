@@ -13,3 +13,5 @@ We are both collaborators on the same repo and will both commit changes.
 ### Task 5: Brian - You should both create a new HTML file. Link to it from index.html
 
 ### Task 6: Carolyn - You should create an array of numbers in a Javascript file, if there isn't one. Write a function that generates a sum.
+
+### Task 7: Brian - You should edit an HTML file. Add a recipe that you like using lists. 
